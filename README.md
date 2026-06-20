@@ -139,6 +139,10 @@
         <a href="https://rundiffusion.com/" target="_blank">RunDiffusion</a>
         <p>Create AI-generated videos with simple prompts.</p>
     </div>
+    <div class="card">
+        <a href="https://imagineclip.com" target="_blank">ImagineClip</a>
+        <p>Generate avatar clips, stylized AI scenes, and social-ready videos from prompts, images, and effects.</p>
+    </div>
 </section>
 
 <section id="audio-tools">
